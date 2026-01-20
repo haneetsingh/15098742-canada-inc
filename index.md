@@ -1,14 +1,14 @@
 ---
-layout: default
-seo:
-  title: "15098742 Canada Inc."
-  description: "15098742 Canada Inc. is a Canadian software and technology consulting firm providing hands on full stack, frontend, and platform engineering services for businesses and product teams."
+layout: minimal
+title: "15098742 Canada Inc. | Software & Consulting Services"
+description: "Canadian software and technology consulting corporation providing hands on software engineering and technical consulting services for businesses and product teams."
+robots: index, follow
 ---
 
 # 15098742 Canada Inc.
 
-**Canadian software and technology consulting corporation**  
-Waterloo, Ontario, Canada  
+**Canadian software and technology consulting corporation**\
+Waterloo, Ontario, Canada\
 Federally incorporated
 
 ---
