@@ -1,9 +1,10 @@
-# 15098742 Canada Inc.
+---
+title: 15098742 Canada Inc.
+---
 
-**Canadian software and technology consulting corporation**
-
-Waterloo, Ontario, Canada
-
+**15098742 Canada Inc.**  
+**Canadian software and technology consulting corporation**  
+Waterloo, Ontario, Canada  
 Federally incorporated
 
 ---
@@ -24,10 +25,10 @@ The company is operated by a senior technology leader with experience spanning f
 
 Professional background includes:
 
-* Technical leadership roles within consulting organizations
-* Senior and staff level engineering roles on product teams
-* Ownership of complex frontend and full stack systems
-* Mentorship and technical guidance for distributed teams
+- Technical leadership roles within consulting organizations  
+- Senior and staff level engineering roles on product teams  
+- Ownership of complex frontend and full stack systems  
+- Mentorship and technical guidance for distributed teams  
 
 Experience includes working on large scale web applications, internal business platforms and customer facing systems used by global organizations.
 
@@ -37,12 +38,12 @@ Experience includes working on large scale web applications, internal business p
 
 Core technical strengths include:
 
-* Modern frontend engineering using React, TypeScript and Next.js
-* Full stack development with Node.js and API driven architectures
-* Frontend platform and design system development
-* Legacy system modernization and incremental rewrites
-* Performance, scalability and maintainability improvements
-* Technical architecture and engineering best practices
+- Modern frontend engineering using React, TypeScript and Next.js  
+- Full stack development with Node.js and API driven architectures  
+- Frontend platform and design system development  
+- Legacy system modernization and incremental rewrites  
+- Performance, scalability and maintainability improvements  
+- Technical architecture and engineering best practices  
 
 Work frequently involves operating within existing codebases, improving reliability and enabling teams to move faster without compromising quality.
 
@@ -54,10 +55,10 @@ Engagements are typically structured around clear technical ownership and close 
 
 Delivery approach emphasizes:
 
-* Practical, production ready solutions
-* Incremental delivery and continuous feedback
-* Strong focus on code quality, testing, and documentation
-* Alignment with business and product goals
+- Practical, production ready solutions  
+- Incremental delivery and continuous feedback  
+- Strong focus on code quality, testing, and documentation  
+- Alignment with business and product goals  
 
 ---
 
@@ -65,11 +66,11 @@ Delivery approach emphasizes:
 
 Common engagement models include:
 
-* Fixed scope project delivery
-* Time and materials consulting
-* Technical leadership and advisory support
-* Frontend platform and architecture reviews
-* Short term or long term engineering support
+- Fixed scope project delivery  
+- Time and materials consulting  
+- Technical leadership and advisory support  
+- Frontend platform and architecture reviews  
+- Short term or long term engineering support  
 
 All engagements are governed by written contracts and statements of work.
 
@@ -79,10 +80,10 @@ All engagements are governed by written contracts and statements of work.
 
 Experience spans multiple domains, including:
 
-* Financial and professional services platforms
-* SaaS products and internal business tools
-* Data heavy and workflow driven applications
-* Client facing web applications at scale
+- Financial and professional services platforms  
+- SaaS products and internal business tools  
+- Data heavy and workflow driven applications  
+- Client facing web applications at scale  
 
 While details of specific implementations are confidential, the work has involved high reliability systems, regulated environments and distributed engineering teams.
 
@@ -90,11 +91,11 @@ While details of specific implementations are confidential, the work has involve
 
 ## Compliance and Operations
 
-* Federally incorporated Canadian corporation
-* Single owner and director
-* Operates using a consulting and contractor model
-* No regulated, restricted or high risk business activities
-* No involvement in cryptocurrency, gambling or adult services
+- Federally incorporated Canadian corporation  
+- Single owner and director  
+- Operates using a consulting and contractor model  
+- No regulated, restricted or high risk business activities  
+- No involvement in cryptocurrency, gambling or adult services  
 
 ---
 
@@ -102,7 +103,8 @@ While details of specific implementations are confidential, the work has involve
 
 For consulting inquiries or collaboration opportunities:
 
-Email: [haneets153@gmail.com](mailto:haneets153@gmail.com)
+Email: [haneets153@gmail.com](mailto:haneets153@gmail.com)  
+Location: Waterloo, Ontario, Canada
 
 ---
 
