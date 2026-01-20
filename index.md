@@ -1,5 +1,8 @@
 ---
-title: 15098742 Canada Inc.
+layout: default
+seo:
+  title: "15098742 Canada Inc."
+  description: "15098742 Canada Inc. is a Canadian software and technology consulting firm providing hands on full stack, frontend, and platform engineering services for businesses and product teams."
 ---
 
 # 15098742 Canada Inc.
