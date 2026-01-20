@@ -2,7 +2,8 @@
 title: 15098742 Canada Inc.
 ---
 
-**15098742 Canada Inc.**  
+# 15098742 Canada Inc.
+
 **Canadian software and technology consulting corporation**  
 Waterloo, Ontario, Canada  
 Federally incorporated
