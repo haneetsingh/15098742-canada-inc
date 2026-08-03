@@ -5,3 +5,4 @@ show_title: false
 theme: minima
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap

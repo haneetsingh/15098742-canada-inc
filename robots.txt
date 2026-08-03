@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haneetsingh.github.io/15098742-canada-inc/sitemap.xml

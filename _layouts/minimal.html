@@ -3,10 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="{{ page.robots | default: 'index, follow' }}">
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  {% seo %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "legalName": "15098742 Canada Inc.",
+    "name": "15098742 Canada Inc.",
+    "url": "{{ site.url }}",
+    "email": "mailto:haneets153@gmail.com",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Waterloo",
+      "addressRegion": "ON",
+      "addressCountry": "CA"
+    },
+    "founder": {
+      "@type": "Person",
+      "jobTitle": "Software Engineer & Technology Consultant"
+    }
+  }
+  </script>
 </head>
 <body>
   <main class="page-content" aria-label="Content">
