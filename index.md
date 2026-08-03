@@ -15,101 +15,84 @@ Federally incorporated
 
 ## Overview
 
-15098742 Canada Inc. is a single owner Canadian corporation providing hands on software engineering and technical consulting services to businesses and product teams.
+15098742 Canada Inc. is a single owner corporation offering hands-on software engineering and technical consulting to businesses and product teams.
 
-The company is led by a technology leader and software engineer with over a decade of experience delivering production systems across consulting firms, scale ups and regulated industries.
+It's run by a technology leader and software engineer with over a decade of experience building production systems at consulting firms, scale-ups, and regulated companies.
 
-All work is delivered on a business to business basis.
+All work is B2B.
 
 ---
 
 ## Founder and Technical Background
 
-The company is operated by a senior technology leader with experience spanning frontend, full stack and platform engineering roles.
+The founder has worked across frontend, full stack, and platform engineering roles — technical leadership within consulting organizations, senior and staff engineering roles on product teams, and ownership of complex frontend and full stack systems. Also spends time mentoring distributed teams.
 
-Professional background includes:
-
-- Technical leadership roles within consulting organizations  
-- Senior and staff level engineering roles on product teams  
-- Ownership of complex frontend and full stack systems  
-- Mentorship and technical guidance for distributed teams  
-
-Experience includes working on large scale web applications, internal business platforms and customer facing systems used by global organizations.
+That background includes large scale web applications, internal business platforms, and customer-facing systems used by global organizations.
 
 ---
 
 ## Areas of Expertise
 
-Core technical strengths include:
+- Modern frontend engineering: React, TypeScript, Next.js
+- Full stack development with Node.js and API-driven architectures
+- Frontend platform and design system work
+- Legacy system modernization and incremental rewrites
+- Performance, scalability, and maintainability
+- Technical architecture and engineering practices
 
-- Modern frontend engineering using React, TypeScript and Next.js  
-- Full stack development with Node.js and API driven architectures  
-- Frontend platform and design system development  
-- Legacy system modernization and incremental rewrites  
-- Performance, scalability and maintainability improvements  
-- Technical architecture and engineering best practices  
-
-Work frequently involves operating within existing codebases, improving reliability and enabling teams to move faster without compromising quality.
+Most of this work happens inside existing codebases — improving reliability and helping teams move faster without breaking things.
 
 ---
 
 ## How Engagements Are Delivered
 
-Engagements are typically structured around clear technical ownership and close collaboration with client stakeholders.
+Engagements are built around clear technical ownership and close collaboration with client stakeholders:
 
-Delivery approach emphasizes:
-
-- Practical, production ready solutions  
-- Incremental delivery and continuous feedback  
-- Strong focus on code quality, testing, and documentation  
-- Alignment with business and product goals  
+- Practical, production-ready solutions
+- Incremental delivery with continuous feedback
+- Strong focus on code quality, testing, and documentation
+- Work that stays aligned with business and product goals
 
 ---
 
 ## Engagement Models
 
-Common engagement models include:
+- Fixed scope project delivery
+- Time and materials consulting
+- Technical leadership and advisory support
+- Frontend platform and architecture reviews
+- Short or long term engineering support
 
-- Fixed scope project delivery  
-- Time and materials consulting  
-- Technical leadership and advisory support  
-- Frontend platform and architecture reviews  
-- Short term or long term engineering support  
-
-All engagements are governed by written contracts and statements of work.
+All engagements run on written contracts and statements of work.
 
 ---
 
 ## Industry Experience
 
-Experience spans multiple domains, including:
+- Financial and professional services platforms
+- SaaS products and internal business tools
+- Data-heavy, workflow-driven applications
+- Client-facing web applications at scale
 
-- Financial and professional services platforms  
-- SaaS products and internal business tools  
-- Data heavy and workflow driven applications  
-- Client facing web applications at scale  
-
-While details of specific implementations are confidential, the work has involved high reliability systems, regulated environments and distributed engineering teams.
+Specific implementation details stay confidential, but the work has spanned high-reliability systems, regulated environments, and distributed engineering teams.
 
 ---
 
 ## Compliance and Operations
 
-- Federally incorporated Canadian corporation  
-- Single owner and director  
-- Operates using a consulting and contractor model  
-- No regulated, restricted or high risk business activities  
-- No involvement in cryptocurrency, gambling or adult services  
+- Federally incorporated Canadian corporation
+- Single owner and director
+- Consulting and contractor model
+- No regulated, restricted, or high-risk business activities
+- No involvement in cryptocurrency, gambling, or adult services
 
 ---
 
 ## Contact
 
-For consulting inquiries or collaboration opportunities:
-
-Email: [haneets153@gmail.com](mailto:haneets153@gmail.com)  
+Email: [haneets153@gmail.com](mailto:haneets153@gmail.com)\
 Location: Waterloo, Ontario, Canada
 
 ---
 
-*This site represents the public business profile of 15098742 Canada Inc.*
+*This site is the public business profile of 15098742 Canada Inc.*
