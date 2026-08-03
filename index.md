@@ -15,19 +15,19 @@ Federally incorporated
 
 ## Overview
 
-15098742 Canada Inc. is a single owner corporation offering hands-on software engineering and technical consulting to businesses and product teams.
+15098742 Canada Inc. is a federally incorporated Canadian corporation, single owner, offering hands-on software engineering and technical consulting to businesses and product teams.
 
-It's run by a technology leader and software engineer with over a decade of experience building production systems at consulting firms, scale-ups, and regulated companies.
+It's run by a technology leader and software engineer with over a decade of experience building production systems at consulting firms, scale-ups and regulated companies.
 
-All work is B2B.
+All work is delivered on a business to business basis.
 
 ---
 
 ## Founder and Technical Background
 
-The founder has worked across frontend, full stack, and platform engineering roles — technical leadership within consulting organizations, senior and staff engineering roles on product teams, and ownership of complex frontend and full stack systems. Also spends time mentoring distributed teams.
+The founder has worked across frontend, full stack and platform engineering roles: technical leadership within consulting organizations, senior and staff engineering roles on product teams, and ownership of complex frontend and full stack systems. Also spends time mentoring distributed teams.
 
-That background includes large scale web applications, internal business platforms, and customer-facing systems used by global organizations.
+That background includes large scale web applications, internal business platforms and customer-facing systems used by global organizations.
 
 ---
 
@@ -37,10 +37,10 @@ That background includes large scale web applications, internal business platfor
 - Full stack development with Node.js and API-driven architectures
 - Frontend platform and design system work
 - Legacy system modernization and incremental rewrites
-- Performance, scalability, and maintainability
+- Performance, scalability and maintainability
 - Technical architecture and engineering practices
 
-Most of this work happens inside existing codebases — improving reliability and helping teams move faster without breaking things.
+Most of this work happens inside existing codebases, improving reliability and helping teams move faster without breaking things.
 
 ---
 
@@ -50,7 +50,7 @@ Engagements are built around clear technical ownership and close collaboration w
 
 - Practical, production-ready solutions
 - Incremental delivery with continuous feedback
-- Strong focus on code quality, testing, and documentation
+- Strong focus on code quality, testing and documentation
 - Work that stays aligned with business and product goals
 
 ---
@@ -74,7 +74,7 @@ All engagements run on written contracts and statements of work.
 - Data-heavy, workflow-driven applications
 - Client-facing web applications at scale
 
-Specific implementation details stay confidential, but the work has spanned high-reliability systems, regulated environments, and distributed engineering teams.
+Specific implementation details stay confidential, but the work has spanned high-reliability systems, regulated environments and distributed engineering teams.
 
 ---
 
@@ -83,8 +83,8 @@ Specific implementation details stay confidential, but the work has spanned high
 - Federally incorporated Canadian corporation
 - Single owner and director
 - Consulting and contractor model
-- No regulated, restricted, or high-risk business activities
-- No involvement in cryptocurrency, gambling, or adult services
+- No regulated, restricted or high-risk business activities
+- No involvement in cryptocurrency, gambling or adult services
 
 ---
 
@@ -95,4 +95,4 @@ Location: Waterloo, Ontario, Canada
 
 ---
 
-*This site is the public business profile of 15098742 Canada Inc.*
+*This site is the public business profile of 15098742 Canada Inc., a Canadian corporation.*
