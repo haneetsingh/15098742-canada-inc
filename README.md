@@ -83,6 +83,8 @@ Happy to share specifics on past projects privately, on request.
 
 Email: [haneets153@gmail.com](mailto:haneets153@gmail.com)
 
+Portfolio: [haneetsingh.github.io](https://haneetsingh.github.io/)
+
 ---
 
 *This repository is the public business profile of 15098742 Canada Inc., a Canadian corporation.*

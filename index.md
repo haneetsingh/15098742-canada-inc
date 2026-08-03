@@ -25,7 +25,7 @@ All work is delivered on a business to business basis.
 
 ## Founder and Technical Background
 
-The founder has worked across frontend, full stack and platform engineering roles: technical leadership within consulting organizations, senior and staff engineering roles on product teams, and ownership of complex frontend and full stack systems. Also spends time mentoring distributed teams.
+The founder has worked across frontend, full stack and platform engineering roles - technical leadership within consulting organizations, senior and staff engineering roles on product teams and ownership of complex frontend and full stack systems. Also spends time mentoring distributed teams.
 
 That background includes large scale web applications, internal business platforms and customer-facing systems used by global organizations.
 
@@ -91,7 +91,8 @@ Specific implementation details stay confidential, but the work has spanned high
 ## Contact
 
 Email: [haneets153@gmail.com](mailto:haneets153@gmail.com)\
-Location: Waterloo, Ontario, Canada
+Location: Waterloo, Ontario, Canada\
+Portfolio: [haneetsingh.github.io](https://haneetsingh.github.io/)
 
 ---
 
